@@ -1,5 +1,3 @@
-import java.util.*;
-
 // 字母组串
 public class id418 {
     // 1个A，2个B，3个C 字母，能组成多少个不同的长度为3的串。
